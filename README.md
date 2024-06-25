@@ -19,5 +19,6 @@ I'm Muyangmin, a software engineer currently living in Chengdu, China.
 
 #### Mainly focused on following domains：
 * Kotlin language
+* SpringBoot/Cloud based application(with kotlin) development
 * Android application development
-* SpringBoot based application(with kotlin) development
+* Data structure and algorithm learning
